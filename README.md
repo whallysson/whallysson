@@ -14,14 +14,14 @@
 🥅  &nbsp;2021 Goals: create a new project and find a new job <br>
 📫  &nbsp;How to reach me **whallysson.dev@gmail.com** <br>
 ⚡  &nbsp;Fun fact: I love adventure and fiction films, I'm very eclectic with music. Everything in its moment =)<br>
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/whallysson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whallysson"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=whallysson&show_icons=true"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whallysson" alt="whallysson" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=whallysson&show_icons=true" alt="whallysson" />
 </a>
 </p>
 
